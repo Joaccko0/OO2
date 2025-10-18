@@ -20,7 +20,7 @@ public abstract class Product {
     public int startDate() {
         return tripPeriod.start;
     }
-
+    
     public int endDate() {
         return tripPeriod.end;
     }
